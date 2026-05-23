@@ -1,0 +1,34 @@
+﻿[
+    {
+        "disease": "Viral Fever",
+        "symptoms": [
+            "fever",
+            "body ache",
+            "chills",
+            "fatigue"
+        ],
+        "recommendations": [
+            "Take rest",
+            "Drink fluids",
+            "Use paracetamol"
+        ],
+        "see_Doctor_If": "Temperature exceeds 103°F",
+        "category": "Acute"
+    },
+
+    {
+        "disease": "Malaria",
+        "symptoms": [
+            "high fever",
+            "chills",
+            "sweating"
+        ],
+        "recommendations": [
+            "Blood test required",
+            "Drink fluids",
+            "Take prescribed medicines"
+        ],
+        "see_Doctor_If": "Severe vomiting or unconsciousness",
+        "category": "Infectious"
+    }
+]
